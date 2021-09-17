@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#070013"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/rilominus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/soyuz_nerushimiy"
+                android:text="@string/remove"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/riloplus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/soyuz_nerushimiy"
+                android:text="@string/add"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/poluchit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@drawable/soyuz_nerushimiy"
+                android:text="@string/getroli"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/arrcreate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/soyuz_nerushimiy"
+                android:text="@string/arr"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/gotogame"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:background="@drawable/soyuz_nerushimiy"
+                android:text="@string/gogame"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

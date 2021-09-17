@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">pdkkld</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="nazad"> И был таков </string>
+
+
+    <string name="offline"> Одна раскладушка </string>
+    <string name="host"> Я-Промысел </string>
+    <string name="myach"> Я-Футбольный мяч </string>
+
+
+    <string name="add"> + форвард </string>
+    <string name="remove"> - форвард </string>
+    <string name="arr">	Растасовать обязанности</string>
+    <string name="getroli"> Получить обязанность </string>
+    <string name="gogame"> Удовольствие </string>
+
+
+    <string name="chose">Выбирай нападающих!!!</string>
+    <string name="nextasho">Суета</string>
+    <string name="pidorstr">Нагадили</string>
+    <string name="lohstr">Проползли</string>
+
+
+    <string name="ahuel"> Неудачник ты ёбаный </string>
+    <string name="ubogiytext"> Нынешний форвард: </string>
+    <string name="mizinec"> Сабботаж</string>
+    <string name="like"> Преодолеть </string>
+    <string name="dislike"> Заделать козу</string>
+    <string name="end">  Управились </string>
+
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

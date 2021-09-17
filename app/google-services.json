@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866922599212",
+    "project_id": "db4pdkkld",
+    "storage_bucket": "db4pdkkld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866922599212:android:55c4901e3d3fbda9061289",
+        "android_client_info": {
+          "package_name": "com.deepth.pdkkld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866922599212-lm2vqt8kb3dalttme6k31b3vogquct9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNgO_ZbpYyFo5lLPyh_V_hCa7YqhlSb6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866922599212-lm2vqt8kb3dalttme6k31b3vogquct9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
